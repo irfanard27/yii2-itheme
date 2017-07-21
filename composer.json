@@ -1,0 +1,22 @@
+{
+    "name": "irfan-ards/yii2-itheme",
+    "description": "teheme",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "irfan ardiansyah",
+            "email": "ardiafire27@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "itheme\\": ""
+        }
+    }
+}
